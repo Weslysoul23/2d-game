@@ -1,0 +1,1241 @@
+fileFormatVersion: 2
+guid: cc21bd91382ad8c45b84b0869a155bd6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -718454989190503792
+    second: moss floor_0
+  - first:
+      213: -7854894716538384542
+    second: moss floor_1
+  - first:
+      213: -1472300858739763597
+    second: moss floor_2
+  - first:
+      213: -9153053193420028802
+    second: moss floor_3
+  - first:
+      213: -8733858250105360368
+    second: moss floor_4
+  - first:
+      213: 6057124466239417562
+    second: moss floor_5
+  - first:
+      213: 6357282663768878237
+    second: moss floor_6
+  - first:
+      213: -536754585041163335
+    second: moss floor_7
+  - first:
+      213: 7804103772485038516
+    second: moss floor_8
+  - first:
+      213: 2008828988884329673
+    second: moss floor_9
+  - first:
+      213: 6487233405202218646
+    second: moss floor_10
+  - first:
+      213: -1660762197206179197
+    second: moss floor_11
+  - first:
+      213: 5158272766599356025
+    second: moss floor_12
+  - first:
+      213: 2511946184317948058
+    second: moss floor_13
+  - first:
+      213: -7321337324898737892
+    second: moss floor_14
+  - first:
+      213: -2056807915258467336
+    second: moss floor_15
+  - first:
+      213: -2454351009257928082
+    second: moss floor_16
+  - first:
+      213: 3244392040496571771
+    second: moss floor_17
+  - first:
+      213: 2680425702811292003
+    second: moss floor_18
+  - first:
+      213: 4096776922474404921
+    second: moss floor_19
+  - first:
+      213: -3241403469780243
+    second: moss floor_20
+  - first:
+      213: -678236260857600498
+    second: moss floor_21
+  - first:
+      213: 6516439036395878421
+    second: moss floor_22
+  - first:
+      213: -5532514652624032495
+    second: moss floor_23
+  - first:
+      213: 1299087328304352096
+    second: moss floor_24
+  - first:
+      213: -3997187687669501713
+    second: moss floor_25
+  - first:
+      213: -2480025240908173215
+    second: moss floor_26
+  - first:
+      213: 2121523227023494937
+    second: moss floor_27
+  - first:
+      213: 6257313376825760377
+    second: moss floor_28
+  - first:
+      213: 90572276784778224
+    second: moss floor_29
+  - first:
+      213: 8373289322826422393
+    second: moss floor_30
+  - first:
+      213: 7476045417243213758
+    second: moss floor_31
+  - first:
+      213: -3624771914268311421
+    second: moss floor_32
+  - first:
+      213: 5489956137597962549
+    second: moss floor_33
+  - first:
+      213: -6437366841533079687
+    second: moss floor_34
+  - first:
+      213: -4150092005084086495
+    second: moss floor_35
+  - first:
+      213: -6217835325234079473
+    second: moss floor_36
+  - first:
+      213: -8061525894011051310
+    second: moss floor_37
+  - first:
+      213: -5306363966921679958
+    second: moss floor_38
+  - first:
+      213: 9112620657843216711
+    second: moss floor_39
+  - first:
+      213: -7268270403759658058
+    second: moss floor_40
+  - first:
+      213: -1409315347231134637
+    second: moss floor_41
+  - first:
+      213: 8409699495869393547
+    second: moss floor_42
+  - first:
+      213: 3522032583782935285
+    second: moss floor_43
+  - first:
+      213: 4895441033502023514
+    second: moss floor_44
+  - first:
+      213: -8245744424895218392
+    second: moss floor_45
+  - first:
+      213: -6100875059786959728
+    second: moss floor_46
+  - first:
+      213: -4162185971644075367
+    second: moss floor_47
+  - first:
+      213: 4532149260302796544
+    second: moss floor_48
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: moss floor unity_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 448
+        width: 959
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 701a0fbdead01d84ab042574a4db3ab0
+      internalID: -995342203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 379
+        width: 345
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55552fbfffa25ca409106be89df30231
+      internalID: 1077924055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_2
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 379
+        width: 410
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e7b895db992b479a5b125f4ec3bf4
+      internalID: 1083296155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_3
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 377
+        width: 161
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48559a398af7da4d9396f86e5c324b5
+      internalID: -393742259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_4
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 308
+        width: 267
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd6da182e11174444835ae0dea47af98
+      internalID: -1931006696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 305
+        width: 372
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3dbfe7f0d40464fbd983fa37f6cbba
+      internalID: 551084847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_6
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 308
+        width: 263
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a012d65d83b2e4c47923a1b8dd829cf7
+      internalID: 1664000252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 206
+        width: 153
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fdfd4c4880ebe745aa2b3f82e791b60
+      internalID: -1373867077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 205
+        width: 103
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45310abd8f228d748b0188cb9d870a6f
+      internalID: -952204675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_9
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 246
+        width: 91
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2197548796c7fdf43bac0572d068beb4
+      internalID: -388441975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_10
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 253
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5cd3a8c5930254b91b08bb434c6871
+      internalID: -24355559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_11
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 204
+        width: 36
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6942f8d2d69daed479f3edbfd85e2cc4
+      internalID: 1331606733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 209
+        width: 27
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a46be1d68298c47912257d7cfa7730
+      internalID: -65053028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 203
+        width: 30
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2819603f6193e4ea0547c02092209d
+      internalID: 1161847295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_14
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 202
+        width: 28
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bb5a2be27d76334cbc03aca8927955f
+      internalID: -1632269077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_15
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 204
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f844c3a09316c034fb1a9049ee07ae1c
+      internalID: -1937158457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_16
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 205
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfacb099efc4e44e829f20d3f821fc2
+      internalID: -1982458392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_17
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 205
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8cc994ebc9c7014eb9af64cc08186c1
+      internalID: 1323260750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_18
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 206
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fd8906efbc8d4d439e038760d9d6a4a
+      internalID: 77955749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 205
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e36e821ab9b2dd6489f5300a3ffadaf0
+      internalID: -1202986242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_20
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 205
+        width: 124
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f3ebf85376b274b99b7749b796e907
+      internalID: 700676143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_21
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 108
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6240aef4a315cb6418e2f188f3bba3b9
+      internalID: 504694590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_22
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 113
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe6fb366fe81114aa39f7dbcd37d0e5
+      internalID: -236986263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 112
+        width: 58
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b9424b3a5c8824c908d1034bee1511
+      internalID: -1543059891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_24
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 114
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2002b1b04c4beea4cbf8dff33a9556d0
+      internalID: -918698479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_25
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 113
+        width: 58
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287dc13ac2c8a6a4aa7ca7748ccc8eef
+      internalID: -1841997236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_26
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 115
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3918eb68786b8f044a46387effe7de0c
+      internalID: 1821773051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_27
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 111
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff18be4820bbab409e697bb609874d9
+      internalID: -408388440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_28
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 113
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e04524c86ae964db43e3fd15409b09
+      internalID: -236510464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_29
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 108
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8abd36794c09943b4c467c1419e414
+      internalID: -420687335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 28
+        width: 74
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81b4fa7fb7a0e6498002194b93be029
+      internalID: 532213357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_31
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 30
+        width: 91
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab2dd43fcb98ec45acdd48676d4037c
+      internalID: 804444902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_32
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 29
+        width: 142
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08d6be70a9a35a4da37589365622eae
+      internalID: 1995245300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_33
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 30
+        width: 91
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c2d6309d14a8946abeeb6b0af9480e
+      internalID: -1479193747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_34
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 32
+        width: 106
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0819ae85404bf344bbc0b1e438a17717
+      internalID: 22727872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_35
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 50
+        width: 108
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3369be23639f6349a24e611cc8f1be9
+      internalID: 2088746958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_41
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 29
+        width: 90
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6444207e89ca4aba1e30b160a3fbd
+      internalID: 1628239402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_44
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 21
+        width: 45
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40c51cd34358d245bfa3613123bef1f
+      internalID: -2053948139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_45
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 21
+        width: 32
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14741adcc9f9fb54896879e969061888
+      internalID: -1494989225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_46
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 21
+        width: 68
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 660ab66ab8e326249bfe05209d7013a4
+      internalID: 644276129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: moss floor unity_37
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 53
+        width: 79
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc822f5d7ca0db47b260c5dfc71a8d8
+      internalID: -1250024217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: e17c8970cc7760d49ad05f9cd4c9a492
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      moss floor unity_0: -995342203
+      moss floor unity_1: 1077924055
+      moss floor unity_10: -24355559
+      moss floor unity_11: 1331606733
+      moss floor unity_12: -65053028
+      moss floor unity_13: 1161847295
+      moss floor unity_14: -1632269077
+      moss floor unity_15: -1937158457
+      moss floor unity_16: -1982458392
+      moss floor unity_17: 1323260750
+      moss floor unity_18: 77955749
+      moss floor unity_19: -1202986242
+      moss floor unity_2: 1083296155
+      moss floor unity_20: 700676143
+      moss floor unity_21: 504694590
+      moss floor unity_22: -236986263
+      moss floor unity_23: -1543059891
+      moss floor unity_24: -918698479
+      moss floor unity_25: -1841997236
+      moss floor unity_26: 1821773051
+      moss floor unity_27: -408388440
+      moss floor unity_28: -236510464
+      moss floor unity_29: -420687335
+      moss floor unity_3: -393742259
+      moss floor unity_30: 532213357
+      moss floor unity_31: 804444902
+      moss floor unity_32: 1995245300
+      moss floor unity_33: -1479193747
+      moss floor unity_34: 22727872
+      moss floor unity_35: 2088746958
+      moss floor unity_36: 1777273533
+      moss floor unity_37: -1250024217
+      moss floor unity_38: 335336257
+      moss floor unity_39: 2073644604
+      moss floor unity_4: -1931006696
+      moss floor unity_40: 2086034388
+      moss floor unity_41: 1628239402
+      moss floor unity_42: 701897597
+      moss floor unity_43: -1517153028
+      moss floor unity_44: -2053948139
+      moss floor unity_45: -1494989225
+      moss floor unity_46: 644276129
+      moss floor unity_5: 551084847
+      moss floor unity_6: 1664000252
+      moss floor unity_7: -1373867077
+      moss floor unity_8: -952204675
+      moss floor unity_9: -388441975
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

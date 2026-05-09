@@ -28,17 +28,25 @@ public class PlayerMovement : MonoBehaviour
         // Horizontal input
         moveInput = Input.GetAxis("Horizontal");
 
-        // Jump
-        if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-        }
+        // WALK BOOL
+        bool isWalking = Mathf.Abs(moveInput) > 0.1f;
+        anim.SetBool("walk", isWalking);
 
-        // Smooth walk animation
-        float walkValue = Mathf.Abs(moveInput);
-        anim.SetFloat("walk", walkValue, 0.1f, Time.deltaTime);
+        // JUMP BOOL
+        anim.SetBool("jump", !isGrounded);
 
-        // Flip sprite when changing direction
+        // Jump action
+if (Input.GetKeyDown(KeyCode.Space) && isGrounded)
+{
+    rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+    anim.SetBool("jump", true); // FORCE jump animation immediately
+}
+// Reset jump when landed
+if (isGrounded && rb.linearVelocity.y <= 0)
+{
+    anim.SetBool("jump", false);
+}
+        // Flip sprite
         if (moveInput > 0 && !facingRight)
         {
             Flip();
@@ -47,25 +55,26 @@ public class PlayerMovement : MonoBehaviour
         {
             Flip();
         }
-
-        // Debug
-        Debug.Log("walk parameter: " + walkValue);
     }
 
     void FixedUpdate()
     {
-        // Move the player
+        // Move player
         rb.linearVelocity = new Vector2(moveInput * moveSpeed, rb.linearVelocity.y);
 
         // Ground check
-        isGrounded = Physics2D.OverlapCircle(groundCheck.position, groundCheckRadius, groundLayer);
+        isGrounded = Physics2D.OverlapCircle(
+            groundCheck.position,
+            groundCheckRadius,
+            groundLayer
+        );
     }
 
     void Flip()
     {
         facingRight = !facingRight;
         Vector3 scale = transform.localScale;
-        scale.x *= -1; // mirror sprite horizontally
+        scale.x *= -1;
         transform.localScale = scale;
     }
 }

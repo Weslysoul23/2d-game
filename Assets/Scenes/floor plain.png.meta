@@ -1,0 +1,1303 @@
+fileFormatVersion: 2
+guid: 4396244840b9e0149aefbb8f804aa0f2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3055733160450455183
+    second: floor plain_0
+  - first:
+      213: 1681065232672155751
+    second: floor plain_1
+  - first:
+      213: -7263008489444223361
+    second: floor plain_2
+  - first:
+      213: -3391644046864997633
+    second: floor plain_3
+  - first:
+      213: 2948783028056431532
+    second: floor plain_4
+  - first:
+      213: -4558451650900366516
+    second: floor plain_5
+  - first:
+      213: -7352429395464037833
+    second: floor plain_6
+  - first:
+      213: -3455902735965573256
+    second: floor plain_7
+  - first:
+      213: 8483004600924377837
+    second: floor plain_8
+  - first:
+      213: -8010882199950888908
+    second: floor plain_9
+  - first:
+      213: 7853525565321992453
+    second: floor plain_10
+  - first:
+      213: -1918200921609332067
+    second: floor plain_11
+  - first:
+      213: 476631926063194222
+    second: floor plain_12
+  - first:
+      213: 1585297548961780941
+    second: floor plain_13
+  - first:
+      213: 6057157897225986467
+    second: floor plain_14
+  - first:
+      213: 5363726681671194391
+    second: floor plain_15
+  - first:
+      213: -475236361430073471
+    second: floor plain_16
+  - first:
+      213: 6500053153742552104
+    second: floor plain_17
+  - first:
+      213: 8715157577538311172
+    second: floor plain_18
+  - first:
+      213: -2651572067270862533
+    second: floor plain_19
+  - first:
+      213: 353773898107514463
+    second: floor plain_20
+  - first:
+      213: 2092126020977377705
+    second: floor plain_21
+  - first:
+      213: -3386946349505406291
+    second: floor plain_22
+  - first:
+      213: -3738370733235553698
+    second: floor plain_23
+  - first:
+      213: -1521246487713208726
+    second: floor plain_24
+  - first:
+      213: -1979805427558147076
+    second: floor plain_25
+  - first:
+      213: -8760101699128808385
+    second: floor plain_26
+  - first:
+      213: -1926777870893607837
+    second: floor plain_27
+  - first:
+      213: -1281282888807718217
+    second: floor plain_28
+  - first:
+      213: 6023230743023009145
+    second: floor plain_29
+  - first:
+      213: -236812995394989689
+    second: floor plain_30
+  - first:
+      213: 2128049451649149011
+    second: floor plain_31
+  - first:
+      213: 8868448417035332093
+    second: floor plain_32
+  - first:
+      213: -5426069522866449487
+    second: floor plain_33
+  - first:
+      213: 9055030898016253641
+    second: floor plain_34
+  - first:
+      213: 4532877165691516425
+    second: floor plain_35
+  - first:
+      213: -4787727102943949154
+    second: floor plain_36
+  - first:
+      213: -3080616213480324812
+    second: floor plain_37
+  - first:
+      213: 8854172325329014984
+    second: floor plain_38
+  - first:
+      213: 2270382057667786531
+    second: floor plain_39
+  - first:
+      213: 610933901193414097
+    second: floor plain_40
+  - first:
+      213: 947835021386393029
+    second: floor plain_41
+  - first:
+      213: 6037449693765700745
+    second: floor plain_42
+  - first:
+      213: 4905774111077117137
+    second: floor plain_43
+  - first:
+      213: 8306530462954087924
+    second: floor plain_44
+  - first:
+      213: -3906028050263246471
+    second: floor plain_45
+  - first:
+      213: 2284791497122518989
+    second: floor plain_46
+  - first:
+      213: -2004239780030001419
+    second: floor plain_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor plain_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 459
+        width: 960
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17908fa61ead795d0800000000000000
+      internalID: -3055733160450455183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 378
+        width: 346
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 768eea52ce7545710800000000000000
+      internalID: 1681065232672155751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_2
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 378
+        width: 412
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f76d70a824c943b90800000000000000
+      internalID: -7263008489444223361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_3
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 377
+        width: 163
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff22b0685b57ee0d0800000000000000
+      internalID: -3391644046864997633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_4
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 310
+        width: 264
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cab110b6a8e2ce820800000000000000
+      internalID: 2948783028056431532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_5
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 311
+        width: 373
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b6a4e00602db0c0800000000000000
+      internalID: -4558451650900366516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_6
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 310
+        width: 265
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ad93f6b6ce6f990800000000000000
+      internalID: -7352429395464037833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_7
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 206
+        width: 154
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87fa87495ca2a00d0800000000000000
+      internalID: -3455902735965573256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_8
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 204
+        width: 104
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de21a1a5dbfa9b570800000000000000
+      internalID: 8483004600924377837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_9
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 244
+        width: 95
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4307d662511a3d090800000000000000
+      internalID: -8010882199950888908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_10
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 252
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509577354e35dfc60800000000000000
+      internalID: 7853525565321992453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_11
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 202
+        width: 38
+        height: 78
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a16a3cc6e2165e0800000000000000
+      internalID: -1918200921609332067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_12
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 208
+        width: 30
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e606b9126365d9600800000000000000
+      internalID: 476631926063194222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_13
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 202
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc41a25b8bb100610800000000000000
+      internalID: 1585297548961780941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_14
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 201
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16b9ce3095f0450800000000000000
+      internalID: 6057157897225986467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_15
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 213
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717db4daff8cf6a40800000000000000
+      internalID: 5363726681671194391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_16
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 212
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f7c941c0f9769f0800000000000000
+      internalID: -475236361430073471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_17
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 212
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c7bf197e3d43a50800000000000000
+      internalID: 6500053153742552104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_18
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 212
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40499b254a572f870800000000000000
+      internalID: 8715157577538311172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_19
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 213
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39d8f1e049b33bd0800000000000000
+      internalID: -2651572067270862533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_20
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 203
+        width: 126
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ee0876c7bd8e400800000000000000
+      internalID: 353773898107514463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_21
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 213
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a145b11889b80d10800000000000000
+      internalID: 2092126020977377705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_22
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 109
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9c6c6d362ff0d0800000000000000
+      internalID: -3386946349505406291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_23
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 114
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a37c6ff93ae1cc0800000000000000
+      internalID: -3738370733235553698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_24
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 114
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a662b0c116273eae0800000000000000
+      internalID: -1521246487713208726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 114
+        width: 112
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb910ef3715684e0800000000000000
+      internalID: -1979805427558147076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_26
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 114
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ca12beaeddd6680800000000000000
+      internalID: -8760101699128808385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_27
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 114
+        width: 102
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3649d442cb5b245e0800000000000000
+      internalID: -1926777870893607837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_28
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 114
+        width: 67
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b264db4008f73ee0800000000000000
+      internalID: -1281282888807718217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_29
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 114
+        width: 55
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d3916c270d69350800000000000000
+      internalID: 6023230743023009145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_30
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 109
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781194bd5dba6bcf0800000000000000
+      internalID: -236812995394989689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_31
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 31
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358230e83b9588d10800000000000000
+      internalID: 2128049451649149011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_32
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 31
+        width: 88
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9244629de031b70800000000000000
+      internalID: 8868448417035332093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 31
+        width: 141
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d8fa748ab2b4b0800000000000000
+      internalID: -5426069522866449487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_34
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 37
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6f17a40aee9ad70800000000000000
+      internalID: 9055030898016253641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_35
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 53
+        width: 85
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906b58714c308ee30800000000000000
+      internalID: 4532877165691516425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_39
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 26
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32775b3d374028f10800000000000000
+      internalID: 2270382057667786531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_40
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 31
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d580e175297a7800800000000000000
+      internalID: 610933901193414097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_41
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 31
+        width: 87
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5296b1ee2672d00800000000000000
+      internalID: 947835021386393029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_43
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 33
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc2f07ef8fc41440800000000000000
+      internalID: 4905774111077117137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_44
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 32
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f5e6583279b64370800000000000000
+      internalID: 8306530462954087924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_45
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 31
+        width: 46
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979f85dee200bc9c0800000000000000
+      internalID: -3906028050263246471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_46
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 31
+        width: 34
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc712d3e2c535bf10800000000000000
+      internalID: 2284791497122518989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor plain_47
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 31
+        width: 69
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5feca9af9828f24e0800000000000000
+      internalID: -2004239780030001419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: c33b747a187c3934f975fc73c0b40626
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floor plain_0: -3055733160450455183
+      floor plain_1: 1681065232672155751
+      floor plain_10: 7853525565321992453
+      floor plain_11: -1918200921609332067
+      floor plain_12: 476631926063194222
+      floor plain_13: 1585297548961780941
+      floor plain_14: 6057157897225986467
+      floor plain_15: 5363726681671194391
+      floor plain_16: -475236361430073471
+      floor plain_17: 6500053153742552104
+      floor plain_18: 8715157577538311172
+      floor plain_19: -2651572067270862533
+      floor plain_2: -7263008489444223361
+      floor plain_20: 353773898107514463
+      floor plain_21: 2092126020977377705
+      floor plain_22: -3386946349505406291
+      floor plain_23: -3738370733235553698
+      floor plain_24: -1521246487713208726
+      floor plain_25: -1979805427558147076
+      floor plain_26: -8760101699128808385
+      floor plain_27: -1926777870893607837
+      floor plain_28: -1281282888807718217
+      floor plain_29: 6023230743023009145
+      floor plain_3: -3391644046864997633
+      floor plain_30: -236812995394989689
+      floor plain_31: 2128049451649149011
+      floor plain_32: 8868448417035332093
+      floor plain_33: -5426069522866449487
+      floor plain_34: 9055030898016253641
+      floor plain_35: 4532877165691516425
+      floor plain_36: -4787727102943949154
+      floor plain_37: -3080616213480324812
+      floor plain_38: 8854172325329014984
+      floor plain_39: 2270382057667786531
+      floor plain_4: 2948783028056431532
+      floor plain_40: 610933901193414097
+      floor plain_41: 947835021386393029
+      floor plain_42: 6037449693765700745
+      floor plain_43: 4905774111077117137
+      floor plain_44: 8306530462954087924
+      floor plain_45: -3906028050263246471
+      floor plain_46: 2284791497122518989
+      floor plain_47: -2004239780030001419
+      floor plain_5: -4558451650900366516
+      floor plain_6: -7352429395464037833
+      floor plain_7: -3455902735965573256
+      floor plain_8: 8483004600924377837
+      floor plain_9: -8010882199950888908
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
